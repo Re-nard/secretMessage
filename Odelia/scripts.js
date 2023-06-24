@@ -105,7 +105,7 @@
 
     MESSAGES.push({
         delay: 22700,
-        text: "Utilise tes contacts tes contacts et tes connaissances pour nous apporter des informations sur les créatures sauvages qui forment la Meute."
+        text: "Utilise tes contacts et tes connaissances pour nous apporter des informations sur les créatures sauvages qui forment la Meute."
     });
 
     MESSAGES.push({
