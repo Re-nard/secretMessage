@@ -10,7 +10,7 @@
 
     MESSAGES.push({
         delay: 2200,
-        text: "_RE-ROUTING DATA NODES..."
+        text: "_REROUTING DATA NODES..."
     });
 
     MESSAGES.push({
@@ -75,7 +75,7 @@
 
     MESSAGES.push({
         delay: 15200,
-        text: "Suis nos instructions et ils seront épargnés."
+        text: "Suis nos instructions et ils seront Ã©pargnÃ©s."
     });
 
     MESSAGES.push({
@@ -105,17 +105,17 @@
 
     MESSAGES.push({
         delay: 21200,
-        text: "Utilise tes contacts tes contacts et tes connaissances pour nous apporter des informations sur les créatures sauvages qui forment la Meute."
+        text: "Utilise tes contacts tes contacts et tes connaissances pour nous apporter des informations sur les crÃ©atures sauvages qui forment la Meute."
     });
 
     MESSAGES.push({
         delay: 22200,
-        text: "Nous voulons des noms, des adresses, des identités."
+        text: "Nous voulons des noms, des adresses, des identitÃ©s."
     });
 
     MESSAGES.push({
         delay: 23200,
-        text: "Nous voulons savoir où ils se cachent la nuit."
+        text: "Nous voulons savoir oÃ¹ ils se cachent la nuit."
     });
 
     MESSAGES.push({
