@@ -64,87 +64,87 @@
     });
 
     MESSAGES.push({
-        delay: 13700,
+        delay: 14200,
         text: "Nous avons leurs noms."
     });
 
     MESSAGES.push({
-        delay: 14700,
+        delay: 15200,
         text: "Leurs adresses."
     });
 
     MESSAGES.push({
-        delay: 15700,
+        delay: 16200,
         text: "Suis nos instructions et ils seront épargnés."
     });
 
     MESSAGES.push({
-        delay: 17200,
+        delay: 18200,
         text: "Si tu les ignores,"
     });
 
     MESSAGES.push({
-        delay: 18200,
+        delay: 19200,
         text: "Si tu les divulgues,"
     });
 
     MESSAGES.push({
-        delay: 19200,
+        delay: 20200,
         text: "Ou si tu contactes la police,"
     });
 
     MESSAGES.push({
-        delay: 20200,
+        delay: 21700,
         text: "Alors ils en paieront le prix avec toi."
     });
 
     MESSAGES.push({
-        delay: 21700,
+        delay: 23700,
         text: "Nos exigences sont simples :"
     });
 
     MESSAGES.push({
-        delay: 22700,
+        delay: 24700,
         text: "Utilise tes contacts et tes connaissances pour nous apporter des informations sur les créatures sauvages qui forment la Meute."
     });
 
     MESSAGES.push({
-        delay: 24700,
+        delay: 27200,
         text: "Nous voulons des noms, des adresses, des identités."
     });
 
     MESSAGES.push({
-        delay: 26200,
+        delay: 29200,
         text: "Nous voulons savoir où ils se cachent la nuit."
     });
 
     MESSAGES.push({
-        delay: 27700,
+        delay: 31200,
         text: "Rapporte nous ces informations, et nous t'oublieront."
     });
 
     MESSAGES.push({
-        delay: 29200,
+        delay: 33200,
         text: "######################"
     });
 
     MESSAGES.push({
-        delay: 30200,
+        delay: 34200,
         text: "Envoie-les au 192.168.123.132"
     });
 
     MESSAGES.push({
-        delay: 31700,
+        delay: 35200,
         text: "Tu as VINGT-CINQ jours."
     });
 
     MESSAGES.push({
-        delay: 32700,
+        delay: 36200,
         text: "######################"
     });
 
     MESSAGES.push({
-        delay: 33700,
+        delay: 37200,
         text: "[R3SIST AND DISORD3R]"
     });
 
