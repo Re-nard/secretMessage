@@ -109,42 +109,42 @@
     });
 
     MESSAGES.push({
-        delay: 27200,
+        delay: 28700,
         text: "Nous voulons des noms, des adresses, des identités."
     });
 
     MESSAGES.push({
-        delay: 29200,
+        delay: 30700,
         text: "Nous voulons savoir où ils se cachent la nuit."
     });
 
     MESSAGES.push({
-        delay: 31200,
+        delay: 32700,
         text: "Rapporte nous ces informations, et nous t'oublieront."
     });
 
     MESSAGES.push({
-        delay: 33200,
+        delay: 34700,
         text: "######################"
     });
 
     MESSAGES.push({
-        delay: 34200,
+        delay: 35700,
         text: "Envoie-les au 192.168.123.132"
     });
 
     MESSAGES.push({
-        delay: 35200,
+        delay: 36700,
         text: "Tu as VINGT-CINQ jours."
     });
 
     MESSAGES.push({
-        delay: 36200,
+        delay: 37700,
         text: "######################"
     });
 
     MESSAGES.push({
-        delay: 37200,
+        delay: 38700,
         text: "[R3SIST AND DISORD3R]"
     });
 
