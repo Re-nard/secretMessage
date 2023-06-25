@@ -135,7 +135,7 @@
 
     MESSAGES.push({
         delay: 38200,
-        text: "Tu as VINGT-CINQ jours."
+        text: "Tu as vingt-cinq jours."
     });
 
     MESSAGES.push({
