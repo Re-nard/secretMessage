@@ -123,28 +123,33 @@
         text: "Rapporte nous ces informations, et nous t'oublieront."
     });
 
-    MESSAGES.push({
+        MESSAGES.push({
         delay: 36200,
-        text: "######################"
+        text: "Echoue et nous agirons."
     });
 
     MESSAGES.push({
         delay: 37200,
-        text: "Envoie-les au 192.168.123.132"
-    });
-
-    MESSAGES.push({
-        delay: 38200,
-        text: "Tu as vingt-cinq jours."
-    });
-
-    MESSAGES.push({
-        delay: 39200,
         text: "######################"
     });
 
     MESSAGES.push({
+        delay: 38200,
+        text: "Envoie-les au 192.168.123.132"
+    });
+
+    MESSAGES.push({
+        delay: 39200,
+        text: "Tu as vingt-cinq jours."
+    });
+
+    MESSAGES.push({
         delay: 40200,
+        text: "######################"
+    });
+
+    MESSAGES.push({
+        delay: 41200,
         text: "[R3SIST AND DISORD3R]"
     });
 
