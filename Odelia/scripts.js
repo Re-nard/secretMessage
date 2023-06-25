@@ -104,47 +104,47 @@
     });
 
     MESSAGES.push({
-        delay: 24700,
+        delay: 25200,
         text: "Utilise tes contacts et tes connaissances pour nous apporter des informations sur les créatures sauvages qui forment la Meute."
     });
 
     MESSAGES.push({
-        delay: 28700,
+        delay: 29200,
         text: "Nous voulons des noms, des adresses, des identités."
     });
 
     MESSAGES.push({
-        delay: 30700,
+        delay: 31200,
         text: "Nous voulons savoir où ils se cachent la nuit."
     });
 
     MESSAGES.push({
-        delay: 32700,
+        delay: 33200,
         text: "Rapporte nous ces informations, et nous t'oublieront."
     });
 
     MESSAGES.push({
-        delay: 34700,
+        delay: 35200,
         text: "######################"
     });
 
     MESSAGES.push({
-        delay: 35700,
+        delay: 36200,
         text: "Envoie-les au 192.168.123.132"
     });
 
     MESSAGES.push({
-        delay: 36700,
+        delay: 37200,
         text: "Tu as VINGT-CINQ jours."
     });
 
     MESSAGES.push({
-        delay: 37700,
+        delay: 38200,
         text: "######################"
     });
 
     MESSAGES.push({
-        delay: 38700,
+        delay: 39200,
         text: "[R3SIST AND DISORD3R]"
     });
 
