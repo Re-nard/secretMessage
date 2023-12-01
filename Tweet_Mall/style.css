@@ -1,0 +1,74 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+p,
+a {
+  text-shadow: 0 0 8px rgba(191, 173, 173, 0.3);
+  font-family: Courier, monospace;
+  margin: 0.8em 0 0.6rem 0.8rem;
+  font-size: 16px;
+  color: #e9e9e9;
+}
+
+p:last-child {
+  position: relative;
+}
+
+#message p:last-child:after {
+  position: absolute;
+  top: -46%;
+  content: "";
+  background-color: #e9e9e9;
+  width: 10px;
+  height: 24px;
+  animation: blink 1s step-end infinite;
+}
+
+.ghost,
+.glitch {
+  opacity: 0.25;
+}
+
+#message {
+  position: relative;
+  width: 450px;
+  padding-bottom: 6rem;
+}
+
+#animate {
+  position: absolute;
+  color: #e9e9e9;
+  border: 1px solid #e9e9e9;
+  bottom: 0;
+  padding: 10px 15px 10px 15px;
+  margin-top: 25px;
+}
+
+#container {
+  min-height: 100vh;
+  height: fit-content;
+  width: 100vw;
+  background-color: #050505;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1.0;
+  }
+
+  50% {
+    opacity: 0.0;
+  }
+
+  100% {
+    opacity: 1.0;
+  }
+}
+
