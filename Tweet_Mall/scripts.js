@@ -5,7 +5,7 @@
 
     MESSAGES.push({
         delay: 0,
-        text: "[...]plus Mrs Parton, vous trouverez-là les extraits des dossiers que vous nous avez demandés. Le conseil de décision aura lieu mardi prochain à 21h, j'attire votre attention sur l[...]"
+        text: "[...]e plus, Mrs Parton, vous trouverez-là les extraits des dossiers que vous nous avez demandés. Le conseil de décision aura lieu mardi prochain à 21h, j'attire votre attention sur l[...]"
     });
 
     MESSAGES.push({
@@ -90,21 +90,11 @@
 
     MESSAGES.push({
         delay: 20200,
-        text: "....."
-    });
-
-    MESSAGES.push({
-        delay: 21700,
         text: "ERREUR - FONCTION DE HASHAGE"
     });
 
     MESSAGES.push({
-        delay: 23700,
-        text: "....."
-    });
-
-    MESSAGES.push({
-        delay: 24700,
+        delay: 21700,
         text: "ERREUR - FONCTION DE HASHAGE"
     });
 
