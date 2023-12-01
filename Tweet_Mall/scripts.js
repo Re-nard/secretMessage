@@ -85,7 +85,7 @@
 
     MESSAGES.push({
         delay: 19200,
-        text: ".....DATA PARSING....."
+        text: "ERREUR - FONCTION DE HASHAGE"
     });
 
     MESSAGES.push({
@@ -95,7 +95,7 @@
 
     MESSAGES.push({
         delay: 21700,
-        text: "ECHEC DE %/;4§56#%ref*"
+        text: "ERREUR - FONCTION DE HASHAGE"
     });
 
     MESSAGES.push({
@@ -105,7 +105,7 @@
 
     MESSAGES.push({
         delay: 24700,
-        text: "DONNÉES CORROMPUES"
+        text: "ERREUR - FONCTION DE HASHAGE"
     });
 
     $container = $("#container");
