@@ -5,147 +5,107 @@
 
     MESSAGES.push({
         delay: 0,
-        text: "_INCOMING TRANSMISSION FROM [BLABLABLA]..."
+        text: "[...]plus Mrs Parton, vous trouverez-là les extraits des dossiers que vous nous avez demandés. Le conseil de décision aura lieu mardi prochain à 21h, j'attire votre attention sur l[...]"
     });
 
     MESSAGES.push({
         delay: 2200,
-        text: "_REROUTING DATA NODES..."
+        text: "2021-02-05 - NIVEAU C4"
     });
 
     MESSAGES.push({
         delay: 3200,
-        text: "_PARSING MEMORY DIARY..."
+        text: "[RAPPORT INTERNE #43561 - ANNEXE B7][ÉLÉMENTS DE PREUVE SUR L'ANOMALIE ST VINCENT]"
     });
 
     MESSAGES.push({
         delay: 4200,
-        text: "_CONNECTION ESTABLISHED..."
+        text: "> ASV044 Rapport d'enquête surnaturel [Savannah NELSON] "
     });
 
     MESSAGES.push({
         delay: 5200,
-        text: "######################"
+        text: "> ASV028 Comparaisons d'archives cadastrales"
     });
 
     MESSAGES.push({
         delay: 6200,
-        text: "ODELIA DI STASIO"
+        text: "> ASV084 Statistiques des témoignages internes"
     });
 
     MESSAGES.push({
         delay: 7200,
-        text: "VINGT NEUF ANS"
+        text: "> ASV017 Compilation des archives photographiques"
     });
 
     MESSAGES.push({
         delay: 8200,
-        text: "17 LAKEVIEW ST"
+        text: "> ASV022 Examens psychologiques des témoins divergents"
     });
 
     MESSAGES.push({
         delay: 9200,
-        text: "71060 MOORINGSPORT"
+        text: "> ASV054 Hypothèses d'affect de la mémoire collective : preuves et dissonances"
     });
 
     MESSAGES.push({
         delay: 10200,
-        text: "######################"
+        text: "> ASV102 Empreintes biométriques des archives vidéos : liste des mises sous surveillance individuelles"
     });
 
     MESSAGES.push({
         delay: 11200,
-        text: "Nous t'observons."
+        text: "> ASV008 Victimes recensées"
     });
 
     MESSAGES.push({
         delay: 12200,
-        text: "Nous observons tous les membres de l'Arche."
+        text: "> ASV041 Rapport interne NRD-MRU sur les mesures de l'effets de radiation surnaturelle"
     });
 
     MESSAGES.push({
         delay: 14200,
-        text: "Nous avons leurs noms."
+        text: "> ASV071 Compilation des dossiers de presse sur la Tempête de Shreveport - Halloween 2019"
     });
 
     MESSAGES.push({
         delay: 15200,
-        text: "Leurs adresses."
+        text: "> ASV029 Recensement des lieux d'anomalies secondaires"
     });
 
     MESSAGES.push({
         delay: 16200,
-        text: "Suis nos instructions et ils seront épargnés."
+        text: "....."
     });
 
     MESSAGES.push({
         delay: 18200,
-        text: "Si tu les ignores,"
+        text: "....."
     });
 
     MESSAGES.push({
         delay: 19200,
-        text: "Si tu les divulgues,"
+        text: ".....DATA PARSING....."
     });
 
     MESSAGES.push({
         delay: 20200,
-        text: "Ou si tu contactes la police,"
+        text: "....."
     });
 
     MESSAGES.push({
         delay: 21700,
-        text: "Alors ils en paieront le prix avec toi."
+        text: "ECHEC DE %/;4§56#%ref*"
     });
 
     MESSAGES.push({
         delay: 23700,
-        text: "Nos exigences sont simples :"
+        text: "....."
     });
 
     MESSAGES.push({
         delay: 24700,
-        text: "Utilise tes contacts et tes connaissances pour nous apporter des informations sur les créatures sauvages qui forment la Meute."
-    });
-
-    MESSAGES.push({
-        delay: 28700,
-        text: "Nous voulons des noms, des adresses, des identités."
-    });
-
-    MESSAGES.push({
-        delay: 30700,
-        text: "Nous voulons savoir où ils se cachent la nuit."
-    });
-
-    MESSAGES.push({
-        delay: 32700,
-        text: "Rapporte nous ces informations, et nous t'oublieront."
-    });
-
-    MESSAGES.push({
-        delay: 34700,
-        text: "######################"
-    });
-
-    MESSAGES.push({
-        delay: 35700,
-        text: "Envoie-les au 192.168.123.132"
-    });
-
-    MESSAGES.push({
-        delay: 36700,
-        text: "Tu as VINGT-CINQ jours."
-    });
-
-    MESSAGES.push({
-        delay: 37700,
-        text: "######################"
-    });
-
-    MESSAGES.push({
-        delay: 38700,
-        text: "[R3SIST AND DISORD3R]"
+        text: "DONNÉES CORROMPUES"
     });
 
     $container = $("#container");
