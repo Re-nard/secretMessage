@@ -20,7 +20,7 @@
 
     MESSAGES.push({
         delay: 4200,
-        text: "> ASV044 Rapport d'enquête surnaturel [Savannah NELSON] "
+        text: "> ASV044 Rapport d'enquête surnaturelle [Savannah NELSON] "
     });
 
     MESSAGES.push({
