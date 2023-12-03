@@ -60,7 +60,7 @@
 
     MESSAGES.push({
         delay: 12200,
-        text: "> ASV041 Rapport interne NRD-MRU sur les mesures de l'effets de radiation surnaturelle"
+        text: "> ASV041 Rapport interne NRD-MRU sur les mesures des effets de radiation surnaturelle"
     });
 
     MESSAGES.push({
